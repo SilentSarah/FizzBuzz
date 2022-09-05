@@ -3,6 +3,7 @@
 # difficulty level: Pretty Low
 # requirements: conditions, input, loops
 # Dev: SSarah - Sarah Hicham Meftah
+# Date: 05/09/2022
 
 start = input("Put the starting number in the prompt:\n")
 
