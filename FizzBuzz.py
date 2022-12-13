@@ -5,18 +5,8 @@
 # Dev: SSarah - Sarah Hicham Meftah
 # Date: 05/09/2022
 
-start = input("Put the starting number in the prompt:\n")
-
-if int(start) < 0 :
-    start = input("Put the starting number in the prompt:\n")
-
-end = input("Put the limit here:\n")
-
-if int(end) <= 0 :
-    end = input("Put the limit here:\n")
-
-startI = int(start)
-endI = int(end)
+startI = 0
+endI = 1000
 
 while startI <= endI:
     if startI == 0:
